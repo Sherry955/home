@@ -9,17 +9,17 @@ permalink:        pretty
 title:            Sherry
 tagline:          'A Jekyll theme'
 description:      'This is my learning note.'
-url:              http://hyde.getpoole.com
+#url:              http://hyde.getpoole.com
 baseurl:          '/home/'
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+#author:
+#  name:           'Mark Otto'
+#  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+#github:
+#  repo:           https://github.com/poole/hyde
