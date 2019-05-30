@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Sherry
+title:            隨手筆記
 tagline:          'A Jekyll theme'
 description:      'This is my learning note.'
 #url:              http://hyde.getpoole.com
