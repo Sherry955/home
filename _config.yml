@@ -10,7 +10,7 @@ title:            隨手筆記
 tagline:          'A Jekyll theme'
 description:      'This is my learning note.'
 #url:              http://hyde.getpoole.com
-baseurl:          '/myblog/'
+baseurl:          '/'
 
 #author:
 #  name:           'Mark Otto'
