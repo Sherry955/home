@@ -186,6 +186,11 @@ a.sidebar-nav-item:focus {
   color: #ac4142;
 }
 
+.theme-base-08 .copyright {
+    margin-bottom: 0;
+    font-size: .5rem;
+}
+
 /* Orange */
 .theme-base-09 .sidebar {
   background-color: #d28445;
