@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Article
+title: Archives
 ---
 
 文章待續..
