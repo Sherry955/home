@@ -2,8 +2,13 @@
 layout: page
 title: About
 ---
-Thanks for reading!
+
 <p class="message">
-管他熙熙攘攘陽關道，我偏要一條獨木橋走到黑。  —— 陳情令
+天上下雨 ， 地上滑 ；
+自己跌倒 ， 自己爬 。
+
+紀錄爬過坑路 。 
+有幫到很高興 ， 
+沒幫到...請看上面 ↑
 </p>
 
