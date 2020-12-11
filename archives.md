@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Archives
+title: 練習範例
 content: works
 ---
-
-##小範例
-
-### 2019.09.15 Login Page
+● Login Page
 > <a target="_blank" href="https://sherry955.github.io/project">登入頁面</a>
 
-### 2019.08.25  React - Work 
+● React_example
 > <a target="_blank" href="https://sherry955.github.io/react_work">React sample</a>
