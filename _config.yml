@@ -8,9 +8,9 @@ redcarpet:
 permalink:        pretty
 
 # Setup
-title:            小玖
+title:            玖度空間
 tagline:          'myblog'
-description:      '業餘。紀錄者'
+description:      '業餘。紀錄者。閒暇之餘學烹飪'
 #url:              http://hyde.getpoole.com
 baseurl:          '/myblog/'
 
