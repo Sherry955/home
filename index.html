@@ -6,12 +6,12 @@ title: 首頁
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h2 class="post-date">{{ post.date | date_to_string }}</h2>
-    <h3 class="post-title">
+    <h3 class="post-date">{{ post.date | date_to_string }}</h3>
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h3>
+    </h2>
 
   <!--  <span class="post-date">{{ post.date | date_to_string }}</span>
           <span class="post-summary">
