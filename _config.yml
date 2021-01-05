@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            時玖
 tagline:          'myblog'
-description:      '隨手筆紀'
+description:      '隨手筆記'
 #url:              http://hyde.getpoole.com
 baseurl:          '/myblog/'
 
